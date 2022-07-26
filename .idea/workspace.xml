@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a15e98ee-1fd0-4d6e-aef3-b8e59cf5007a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicosPraticos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/metodos/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/metodos/Emprestimo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/metodos/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/metodos/Mensagem.java" afterDir="false" />
+    <list default="true" id="a15e98ee-1fd0-4d6e-aef3-b8e59cf5007a" name="Changes" comment="Calculadora - Mensagem - Empréstimo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +21,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -77,7 +74,26 @@
       <option name="presentableId" value="Default" />
       <updated>1658835740610</updated>
     </task>
+    <task id="LOCAL-00001" summary="Calculadora - Mensagem - Empréstimo">
+      <created>1658843198468</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658843198468</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -89,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Calculadora - Mensagem - Empréstimo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculadora - Mensagem - Empréstimo" />
   </component>
 </project>

@@ -1,5 +1,3 @@
-import java.util.function.DoublePredicate;
-
 //crie um projeto para compreender as operações lógicas. Utilizar operando e expressões
 public class ExerciciolV {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package exercicioII;
+package com.java.metodos.exercicioII;
 
 public class Quadrilatero {
     public static void area(double lado){

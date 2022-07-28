@@ -1,4 +1,4 @@
-package exercicioII;
+package com.java.metodos.exercicioII;
 
 public class main {
     public static void main(String[] args) {
@@ -7,6 +7,8 @@ public class main {
         Quadrilatero.area(5d, 5d);
         Quadrilatero.area(7, 8, 9);
         Quadrilatero.area(5f, 5f);
+
+        System.out.print();
     }
 
 }

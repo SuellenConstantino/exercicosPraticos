@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a15e98ee-1fd0-4d6e-aef3-b8e59cf5007a" name="Changes" comment="Exercíco Quadrilateros" />
+    <list default="true" id="a15e98ee-1fd0-4d6e-aef3-b8e59cf5007a" name="Changes" comment="Exercíco Quadrilateros">
+      <change afterPath="$PROJECT_DIR$/src/com/java/metodos/exercicioII/Quadrilateros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicioII/Quadrilatero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/metodos/exercicioII/Quadrilatero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicioII/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/metodos/exercicioII/main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
@@ -37,14 +45,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Santiago\Desktop\Java - DIO\exercicosPraticos\src\exercicioII" />
+      <recent name="C:\Users\Santiago\Desktop\Java - DIO\exercicosPraticos\out\production\exercicosPraticos\com\java\exercicioII" />
+      <recent name="C:\Users\Santiago\Desktop\Java - DIO\exercicosPraticos\out\production\exercicosPraticos\com\java" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.metodos.Main" />
@@ -75,7 +90,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.main" />
-        <item itemvalue="Application.com.java.metodos.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658879716164</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Exercíco Quadrilateros">
+      <created>1658911562979</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658911562979</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -161,5 +182,16 @@
     <MESSAGE value="Exercíco Quadrilateros !" />
     <MESSAGE value="Exercíco Quadrilateros" />
     <option name="LAST_COMMIT_MESSAGE" value="Exercíco Quadrilateros" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/metodos/exercicioII/Quadrilateros.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -15,7 +15,7 @@ public class Main {
         boolean b1 = true;
         boolean b2 = false;
 
-        long l1 = 1597l;
+         long l1 = 1597l;
         long l2 =  8997l;
         byte y1 = 1;
         short h1 = 25;
